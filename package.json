@@ -1,6 +1,6 @@
 {
-  "name": "grunt-packer",
-  "description": "grunt-packer",
+  "name": "grunt-jspacker",
+  "description": "grunt-jspacker",
   "version": "0.1.0",
   "homepage": "https://github.com/zhangyu/grunt-packer",
   "author": {
@@ -27,9 +27,11 @@
   "scripts": {
     "test": "grunt test"
   },
+  "dependencies":{
+    "packer":"~0.0.5"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
-    "packer":"~0.0.5"
   },
   "peerDependencies": {
     "grunt": "~0.4.1"
