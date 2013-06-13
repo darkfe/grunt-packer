@@ -1,7 +1,7 @@
 {
   "name": "grunt-jspacker",
   "description": "grunt-jspacker",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/zhangyu/grunt-packer",
   "author": {
     "name": "zhangyu",
